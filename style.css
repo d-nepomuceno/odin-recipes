@@ -1,0 +1,17 @@
+body {
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
+
+.title {
+    color: rgb(204, 148, 43);
+    font-size: 38px;
+    text-align: center;
+}
+
+#spaghetti,
+#avgolemono,
+#onigiri {
+    background-color: rgb(36, 191, 202);
+    color: black;
+    font-size: 24px;
+}
